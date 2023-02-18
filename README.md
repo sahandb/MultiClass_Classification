@@ -1,4 +1,4 @@
-# MultiClass_Classification
+# Multi Class Classification
 I applied one-vs-one and one-vs-all classification strategies using Logistic regression on the complete Iris dataset.
 
 Then perform softmax regression on Iris dataset again and compare the results.
